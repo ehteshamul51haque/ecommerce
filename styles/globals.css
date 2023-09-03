@@ -166,7 +166,7 @@ span.text-red {
 .hero-banner-image {
   position: absolute;
   top: 0%;
-  right: 20%;
+  right: 1%;
   width: 450px;
   height: 450px;
 }
@@ -242,10 +242,12 @@ span.text-red {
 }
 .footer-banner-image {
   position: absolute;
-  /* top: -35%;
-  left: 8%; */
-  top: -25%;
-  left: 25%;
+  height: 450px;
+  width: 450px;
+  /* top: -35%; */
+  /* left: 8%; */
+  top: -5%;
+  left: 35%;
 }
 .banner-desc .right {
   line-height: 1.4;
